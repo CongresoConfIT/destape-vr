@@ -1,4 +1,4 @@
-# destape-vr
+# El Destape de la Realidad Virtual
 
 Este repositorio contiene las diapositivas de la ponencia de Jesús Mayor Marquez "El destape de la Realidad Virtual" realizada como parte de las Conf.IT Talks en la ETSI de Sistemas Informáticos de la Universidad Politécnica de Madrid
 
